@@ -5,6 +5,6 @@ using namespace std;
 int main(){
 	hhhh
 	ppp
-	lkkk
+	lkkkuiui
 	return 1;
 }
